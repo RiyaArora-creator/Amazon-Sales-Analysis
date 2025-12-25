@@ -29,7 +29,8 @@
 
 2. POWER BI
 
-📊 **Business Impact and Insights** 
+ **Business Impact and Insights** 
+ 
 1️⃣ Overall Sales Performance
 
 Year-to-Date (YTD) sales show consistent upward growth, indicating strong demand and stable revenue generation across the year.
@@ -80,3 +81,5 @@ Transformed raw Amazon sales data into actionable insights for business growth.
 
 Designed KPI-driven dashboards suitable for real-world e-commerce decision-making. 
 
+**Screenshots/ Demos **
+Show what the dashboard looks like https://github.com/RiyaArora-creator/Amazon-Sales-Analysis/blob/main/Amazon%20Sales%20Analysis.png
