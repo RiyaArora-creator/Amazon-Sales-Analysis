@@ -81,5 +81,7 @@ Transformed raw Amazon sales data into actionable insights for business growth.
 
 Designed KPI-driven dashboards suitable for real-world e-commerce decision-making. 
 
-**Screenshots/ Demos **
+**Screenshots/ Demos** 
 Show what the dashboard looks like https://github.com/RiyaArora-creator/Amazon-Sales-Analysis/blob/main/Amazon%20Sales%20Analysis.png
+<img width="1319" height="735" alt="Amazon Sales Analysis" src="https://github.com/user-attachments/assets/d8d1b03b-0ecc-4273-9035-3e97752b9764" />
+
